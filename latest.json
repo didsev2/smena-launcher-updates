@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.12",
-  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.12.apk",
-  "notes": "• «Добавить виджет» в меню долгого нажатия — любые виджеты телефона\n• Виджеты на любом рабочем столе, перенос между столами\n• У каждого виджета — положение и размер по 1 dp, «Настройки» и «Убрать»"
+  "versionCode": 23,
+  "versionName": "0.13",
+  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.13.apk",
+  "notes": "• Папки на рабочем столе: «Создать папку» в меню или иконку на иконку\n• Эффекты перелистывания столов: куб, глубина, карусель, переворот, веер\n• Иконки красиво рассыпаются при удалении\n• Настройки открываются там, где вы были\n• Убрана анимация разблокировки «Круг»"
 }
