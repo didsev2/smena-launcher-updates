@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.11",
-  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.11.apk",
-  "notes": "• Проверка и установка обновлений прямо из лаунчера\n• Частые приложения на главный стол (вместо скриншотов)\n• Встроенные обои, «Синяя сталь» по умолчанию\n• Строка сети и VPN внизу экрана"
+  "versionCode": 22,
+  "versionName": "0.12",
+  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.12.apk",
+  "notes": "• «Добавить виджет» в меню долгого нажатия — любые виджеты телефона\n• Виджеты на любом рабочем столе, перенос между столами\n• У каждого виджета — положение и размер по 1 dp, «Настройки» и «Убрать»"
 }
