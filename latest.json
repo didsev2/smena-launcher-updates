@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.14",
-  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.14.apk",
-  "notes": "• Новые настройки в стиле «Графит и янтарь»: разделы, живой предпросмотр сетки\n• Меню долгого нажатия — шторка с янтарной кромкой\n• Список виджетов в настройках: нажмите — откроется их настройка на столе"
+  "versionCode": 26,
+  "versionName": "0.14.1",
+  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.14.1.apk",
+  "notes": "• Поиск в окне «Добавить виджет»\n• Настройки сразу открываются с блоков, без большого предпросмотра"
 }
