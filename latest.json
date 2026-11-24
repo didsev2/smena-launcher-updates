@@ -1,0 +1,6 @@
+{
+  "versionCode": 21,
+  "versionName": "0.11",
+  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.11.apk",
+  "notes": "• Проверка и установка обновлений прямо из лаунчера\n• Частые приложения на главный стол (вместо скриншотов)\n• Встроенные обои, «Синяя сталь» по умолчанию\n• Строка сети и VPN внизу экрана"
+}
