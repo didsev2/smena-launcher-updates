@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.16",
-  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.16.apk",
-  "notes": "Системный стол слева от главного (свайп вправо): память с кольцом, очисткой и папками по размеру, карта памяти, экранное время, своя галерея фото и видео с удалением"
+  "versionCode": 29,
+  "versionName": "0.16.1",
+  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.16.1.apk",
+  "notes": "Галерея: шестерёнка → «Исключить папку». Ярлыки из браузера снова добавляются, у ярлыка есть «Создать копию». «Музыка» считается по реальным файлам и открывает папки с аудио. Экранное время — за месяц, нажатие в любом месте открывает подробности"
 }
