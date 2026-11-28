@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.14.1",
-  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.14.1.apk",
-  "notes": "• Поиск в окне «Добавить виджет»\n• Настройки сразу открываются с блоков, без большого предпросмотра"
+  "versionCode": 27,
+  "versionName": "0.15",
+  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.15.apk",
+  "notes": "• Ярлыки «Добавить на главный экран» из браузера и приложений теперь появляются на столах лаунчера\n• Нижний ряд иконок больше не опускается к системным кнопкам"
 }
