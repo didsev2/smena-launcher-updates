@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.15",
-  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.15.apk",
-  "notes": "• Ярлыки «Добавить на главный экран» из браузера и приложений теперь появляются на столах лаунчера\n• Нижний ряд иконок больше не опускается к системным кнопкам"
+  "versionCode": 28,
+  "versionName": "0.16",
+  "apk": "https://raw.githubusercontent.com/didsev2/smena-launcher-updates/main/apk/SmenaLauncher-0.16.apk",
+  "notes": "Системный стол слева от главного (свайп вправо): память с кольцом, очисткой и папками по размеру, карта памяти, экранное время, своя галерея фото и видео с удалением"
 }
